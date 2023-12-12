@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NassimKiwif
+- 👀 I’m interested in learning python code 
+- 🌱 I’m currently Finishing my Business Analytics Master's degree
+- 💞️ I’m looking to collaborate on projects that involve python code 
+- 📫 E-mail: nassim.kefi@msb.tn
